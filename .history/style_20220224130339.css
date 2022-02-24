@@ -579,10 +579,10 @@ p {
 }
 
 #stats .all-items .item:nth-child(1) {
-	background-color: rgba(0, 255, 255, 0.322);
+	background-color: rgba(0, 217, 255, 0.322);
 }
 #stats .all-items .item:nth-child(2) {
-	background-color: rgba(255, 187, 0, 0.596);
+	background-color: rgba(0, 255, 115, 0.329);
 }
 #stats .all-items .item:nth-child(3) {
 	background-color: #4705fc50;
